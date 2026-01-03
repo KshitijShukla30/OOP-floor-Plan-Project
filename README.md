@@ -27,9 +27,6 @@ The **2D Floor Planner** is a Java Swing-based desktop application designed for 
 ### Plan Management
 - Save and reload floor plans using a custom file format.
 
-## Example Screenshot
-*(Include an example image or screenshot of the application in action here.)*
-
 ## How to Run
 1. Ensure you have Java installed on your system.
 2. Compile the project using `javac` and run it using `java`.
